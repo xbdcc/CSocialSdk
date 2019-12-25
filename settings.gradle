@@ -1,0 +1,2 @@
+include ':demo', ':csocialsdk'
+rootProject.name='CSocialSdk'
